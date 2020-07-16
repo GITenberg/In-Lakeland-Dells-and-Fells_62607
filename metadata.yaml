@@ -1,0 +1,23 @@
+_repo: In-Lakeland-Dells-and-Fells_62607
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Palmer, William T.
+    alias: Palmer, William Thomas
+    birthdate: 1877
+    deathdate: 1954
+    gutenberg_agent_id: '49535'
+    url: http://www.gutenberg.org/2009/agents/49535
+description: ''
+gutenberg_issued: '2020-07-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62607'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: In Lakeland Dells and Fells
+url: http://www.gutenberg.org/ebooks/62607
